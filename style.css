@@ -1,0 +1,71 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    font-size: 17px;
+}
+
+.gothic{
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.overflow-hid{
+    overflow: hidden;
+}
+
+.icon-size{
+    font-size: 70px;
+}
+
+.zoom{
+  transition: transform .2s; 
+  margin: 0 auto;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+}
+
+.pt-77px{
+    padding-top: 77px !important;
+}
+
+.pt-100px{
+    padding-top: 100px !important;
+}
+
+.mb--30px{
+    margin-bottom: -30px !important;
+}
+
+.mt-56px{
+    margin-top: 56px !important;
+}
+
+.bg-687D73{
+    background-color: #687D73 !important;
+}
+
+.bg-8EA99B{
+    background-color: #8EA99B !important;
+}
+
+.color-8d0000{
+    color: #8d0000;
+}
+
+.border-bottom {
+    border-bottom: 2.5px var(--bs-border-style) #8d0000!important;
+}
+
+.nav-pills{
+    --bs-nav-pills-link-active-bg: #000000;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.nav{
+    --bs-nav-link-hover-color: #ffffff;
+}
